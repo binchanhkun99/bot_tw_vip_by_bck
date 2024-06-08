@@ -1,0 +1,6 @@
+deep_translator==1.11.4
+Flask==3.0.2
+Flask_Cors==4.0.0
+Pyrogram==2.0.106
+selenium==4.17.2
+termcolor==2.4.0
